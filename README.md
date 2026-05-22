@@ -50,7 +50,7 @@ print("File received successfully")
 # Close connection 
 client.close()
 ```
-## OUPUT
+## OUTPUT
 <img width="907" height="992" alt="Screenshot 2026-05-22 142801" src="https://github.com/user-attachments/assets/cbe5a559-f4fe-4120-a4b4-260d479ae57d" />
 <img width="886" height="999" alt="Screenshot 2026-05-22 142809" src="https://github.com/user-attachments/assets/8e77f0d7-42d2-4ee4-8cd2-9ec5f6014c90" />
 
